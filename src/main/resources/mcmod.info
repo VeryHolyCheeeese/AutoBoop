@@ -1,0 +1,11 @@
+[
+{
+  "modid": "AutoBoop",
+  "name": "AutoBoop",
+  "description": "Money 100% made by DarkCheese_ and not danker all code is by Cheese i SWEAR",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://discord.gg/e6ucEK2",
+  "authorList": ["DarkCheese_"]
+}
+]
